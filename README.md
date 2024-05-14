@@ -1,7 +1,7 @@
 
 ###
 <h1 align="left">Hey 👋 What's up?</h1>
-<p align="left">My name is Muhammad Kabeer and I'm a front-end developer, from Pakistan</p>
+<p align="left">My name is Muhammad Kashan Ashraf and I'm a Front-end developer from Pakistan, aiming to become Full Stack Developer</p>
 
 ###
 
@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning React JS<br>🎯 Goals: Full Stack Developer<br></p>
+<p align="left">✨ Creating Websites since 2022<br>📚 I'm currently learning JavaScript and React JS<br>🎯 Goals: Full Stack Developer<br></p>
 
 
 <h2 align="left">I code with</h2>
