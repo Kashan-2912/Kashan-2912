@@ -7,15 +7,7 @@
 🔭 Exploring Web Development.<br>🌱 I’m currently working on Something Cool 😉<br>💬 Ping me about Programming Fundamentals, OOP and DSA.<br>⚡ Fun Fact: When I'm having fun, I'm the best in the world.
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/itzKashan2912)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/itzka_shan)  
-[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/itzKashan2912)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-kashan-ashraf/)  
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://itzkashan.medium.com/)  
-[![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/Kashan2912)  
-[![Upwork](https://img.shields.io/badge/Upwork-%2300B22D.svg?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ec288c31651818ea?viewMode=1)  
-[![Fiverr](https://img.shields.io/badge/Fiverr-%231DBF73.svg?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/handydesignz)  
-[![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@itzkashan)  
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/itzKashan2912)  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/itzka_shan)  [![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/itzKashan2912)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-kashan-ashraf/)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://itzkashan.medium.com/)  [![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?style=for-the-badge&logo=dribbble&logoColor=white)](https://dribbble.com/Kashan2912)  [![Upwork](https://img.shields.io/badge/Upwork-%2300B22D.svg?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01ec288c31651818ea?viewMode=1)  [![Fiverr](https://img.shields.io/badge/Fiverr-%231DBF73.svg?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/handydesignz)  [![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/@itzkashan)  
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
