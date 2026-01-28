@@ -4,57 +4,18 @@
 
 <br/>
 
-<svg width="650" height="100" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <linearGradient id="fireGrad" x1="0%" y1="0%" x2="0%" y2="100%">
-      <stop offset="0%" style="stop-color:#FFD700">
-        <animate attributeName="stop-color" values="#FFD700;#FFA500;#FF4500;#FFA500;#FFD700" dur="1.5s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="50%" style="stop-color:#FF4500">
-        <animate attributeName="stop-color" values="#FF4500;#FF6347;#FF4500;#FF6347;#FF4500" dur="1.5s" repeatCount="indefinite"/>
-      </stop>
-      <stop offset="100%" style="stop-color:#8B0000">
-        <animate attributeName="stop-color" values="#8B0000;#FF0000;#8B0000;#FF0000;#8B0000" dur="1.5s" repeatCount="indefinite"/>
-      </stop>
-    </linearGradient>
-    
-    <!-- <filter id="fireWave" x="-50%" y="-50%" width="200%" height="200%">
-      <feTurbulence type="fractalNoise" baseFrequency="0.05 0.3" numOctaves="3" seed="2">
-        <animate attributeName="baseFrequency" values="0.05 0.3;0.06 0.4;0.05 0.3" dur="2s" repeatCount="indefinite"/>
-      </feTurbulence>
-      <feDisplacementMap in="SourceGraphic" scale="8">
-        <animate attributeName="scale" values="8;15;8" dur="2s" repeatCount="indefinite"/>
-      </feDisplacementMap>
-    </filter>
-    
-    <filter id="glow">
-      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
-      <feMerge>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="coloredBlur"/>
-        <feMergeNode in="SourceGraphic"/>
-      </feMerge>
-    </filter> -->
-  </defs>
-  
-  <text x="325" y="60" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="url(#fireGrad)" text-anchor="middle" filter="url(#fireWave)">
-    🔥 Summon the creature behind your code 🔥
-  </text>
-  
-  <text x="325" y="60" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="url(#fireGrad)" text-anchor="middle" filter="url(#glow)" opacity="0.6">
-    🔥 Summon the creature behind your code 🔥
-  </text>
-</svg>
+<img src="https://localhost:3000/api/tagline" alt="Summon the creature behind your code" />
 
 <br/>
 
-<a href="https://gitquest.is-a.software/summon" target="_blank" rel="noopener noreferrer">
+<a href="https://localhost:3000/summon" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/🐉_Create_Yours_Now-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e" alt="Create Your Creature" />
 </a>
 
 </div>
 
 ---
+
 
 
 
