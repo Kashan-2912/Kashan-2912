@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://1c45480c80cc.ngrok-free.app/api/tagline?v=17" alt="Summon the creature behind your code" />
+<img src="https://gitquest.is-a.software/api/tagline?v=23" alt="Summon the creature behind your code" />
 
 <br/>
 
