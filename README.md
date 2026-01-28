@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7941D&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=60&lines=🔥+Summon+the+creature+behind+your+code+🔥" alt="Summon text" />
+<img src="https://localhost:3000/api/tagline" alt="Summon the creature behind your code" />
 
 <br/>
 
@@ -15,6 +15,7 @@
 </div>
 
 ---
+
 
 
 
