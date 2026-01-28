@@ -4,7 +4,7 @@
 
 <br/>
 
-<img src="https://gitquest.is-a.software/api/tagline?v=2" alt="Summon the creature behind your code" />
+<img src="https://gitquest.is-a.software/api/tagline?v=3" alt="Summon the creature behind your code" />
 
 <br/>
 
@@ -13,8 +13,6 @@
 </a>
 
 </div>
-
-
 
 <h1 align="center">Hi 👋, Muhammad Kashan Ashraf !</h1>
 <h3 align="center">💫 A Computer Science undergraduate interested in Web and AI/ML.</h3>
