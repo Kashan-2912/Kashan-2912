@@ -18,7 +18,7 @@
       </stop>
     </linearGradient>
     
-    <filter id="fireWave" x="-50%" y="-50%" width="200%" height="200%">
+    <!-- <filter id="fireWave" x="-50%" y="-50%" width="200%" height="200%">
       <feTurbulence type="fractalNoise" baseFrequency="0.05 0.3" numOctaves="3" seed="2">
         <animate attributeName="baseFrequency" values="0.05 0.3;0.06 0.4;0.05 0.3" dur="2s" repeatCount="indefinite"/>
       </feTurbulence>
@@ -34,7 +34,7 @@
         <feMergeNode in="coloredBlur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
-    </filter>
+    </filter> -->
   </defs>
   
   <text x="325" y="60" font-family="Arial, sans-serif" font-size="32" font-weight="bold" fill="url(#fireGrad)" text-anchor="middle" filter="url(#fireWave)">
@@ -55,6 +55,7 @@
 </div>
 
 ---
+
 
 
 
