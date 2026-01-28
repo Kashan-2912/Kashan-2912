@@ -1,5 +1,27 @@
-![My Image](https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif)
-[![My GitQuest Creature](https://gitquest.is-a.software/api/widget/Kashan-2912?v=5)](https://gitquest.is-a.software/Kashan-2912)
+<div style="display: flex; align-items: center; justify-content: center; gap: 24px;">
+
+  <!-- Left Image (White Illustration / GIF) -->
+  <div style="display: flex; align-items: center; height: 260px;">
+    <img 
+      src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
+      alt="Coding Illustration"
+      style="max-height: 100%; width: auto;"
+    />
+  </div>
+
+  <!-- Right Image (GitQuest Card) -->
+  <div style="height: 260px;">
+    <a href="https://gitquest.is-a.software/Kashan-2912">
+      <img 
+        src="https://gitquest.is-a.software/api/widget/Kashan-2912?v=5"
+        alt="GitQuest Creature"
+        style="height: 100%; width: auto;"
+      />
+    </a>
+  </div>
+
+</div>
+
 
 <h1 align="center">Hi 👋, Muhammad Kashan Ashraf !</h1>
 <h3 align="center">💫 A Computer Science undergraduate interested in Web and AI/ML.</h3>
