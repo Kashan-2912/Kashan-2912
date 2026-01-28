@@ -1,12 +1,4 @@
-| | |
-|:--:|:--:|
-| 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/> 
-| 
-<a href="https://gitquest.is-a.software/Kashan-2912">
-  <img src="https://gitquest.is-a.software/api/widget/Kashan-2912?v=5" />
-</a> 
-|
+[![My GitQuest Creature](https://gitquest.is-a.software/api/widget/Kashan-2912?v=5)](https://gitquest.is-a.software/Kashan-2912)
 
 
 
