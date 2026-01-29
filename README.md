@@ -56,8 +56,8 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kashan-2912&theme=codeSTACKr)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Kashan-2912&theme=codeSTACKr&utcOffset=5)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Kashan-2912&theme=matrix&no-frame=false&no-bg=false&margin-w=4)
+# GitHub Activity
+![GitHub Contribution Graph](https://ghchart.rshah.org/Kashan-2912)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
