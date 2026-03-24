@@ -88,11 +88,6 @@
 </td>
 
 <td align="center" width="90">
-    <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="55" height="55" />
-    <br>Node.js
-</td>
-
-<td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=go" width="48" height="48" />
     <br>Go
 </td>
