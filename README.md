@@ -45,10 +45,6 @@
             <br>Redux
         </td>
         <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-            <br>Django
-        </td>
-        <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind" />
             <br>Tailwind
         </td>
@@ -63,14 +59,6 @@
         <td align="center" width="90">
             <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
             <br>GraphQL
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=vue" width="45" height="45" alt="Vue" />
-            <br>Vue
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=nuxtjs" width="45" height="45" alt="Nuxt.js" />
-            <br>Nuxt.js
         </td>
     </tr>
     <tr>
@@ -89,10 +77,6 @@
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=java" width="45" height="45" alt="Java" />
             <br>Java
-        </td>
-        <td align="center" width="90">
-            <img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" />
-            <br>Sass
         </td>
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB" />
@@ -151,10 +135,6 @@
         <td align="center" width="90">
             <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" alt="Rust" />
             <br>Rust
-        </td>
-        <td align="center" width="90">
-            <img src="https://skillicons.dev/icons?i=angular" width="45" height="45" alt="Angular" />
-            <br>Angular
         </td>
     </tr>
 </table>
