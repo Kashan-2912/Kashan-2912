@@ -122,14 +122,14 @@
     <br>MySQL
 </td>
 
-</tr>
-
-<tr>
-
 <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=sqlite" width="45" height="45" />
     <br>SQLite
 </td>
+
+</tr>
+
+<tr>
 
 <td align="center" width="90">
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="65" height="65" />
@@ -171,6 +171,11 @@
     <br>Prettier
 </td>
 
+<td align="center" width="90">
+    <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" />
+    <br>Rust
+</td>
+
 </tr>
 
 <tr>
@@ -188,11 +193,6 @@
 <td align="center" width="90">
     <img src="https://skillicons.dev/icons?i=solidity" width="45" height="45" />
     <br>Solidity
-</td>
-
-<td align="center" width="90">
-    <img src="https://skillicons.dev/icons?i=rust" width="45" height="45" />
-    <br>Rust
 </td>
 
 </tr>
