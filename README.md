@@ -145,6 +145,28 @@
             <br>Rust
         </td>
     </tr>
+    <tr>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/prettier-icon.svg" width="55" height="55" alt="Prettier" />
+            <br>Prettier
+        </td>
+       <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="55" height="55" alt="REST API" />
+            <br>REST API
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" width="55" height="55" alt="GitHub" />
+            <br>GitHub
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/nginx-icon.svg" width="55" height="55" alt="NGinx" />
+            <br>NGinx
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="55" height="55" alt="TypeScript" />
+            <br>TypeScript
+        </td>
+    </tr>
 </table>
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
