@@ -60,6 +60,14 @@
             <img src="https://techstack-generator.vercel.app/graphql-icon.svg" width="48" height="48" alt="GraphQL" />
             <br>GraphQL
         </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/webpack-icon.svg" width="48" height="48" alt="Webpack" />
+            <br>Webpack
+        </td>
+        <td align="center" width="90">
+            <img src="https://techstack-generator.vercel.app/eslint-icon.svg" width="48" height="48" alt="ESLint" />
+            <br>ESLint
+        </td>
     </tr>
     <tr>
         <td align="center" width="90">
