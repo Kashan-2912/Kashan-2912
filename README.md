@@ -1,6 +1,6 @@
 <p align="center">
     <img width="98%"
-        src="[https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=DevLaiger&reversal=false&section=header&animation=twinkling](https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=itzKashan&section=header&reversal=false&textBg=false)" />
+        src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=itzKashan&section=header&reversal=false&textBg=false" />
 </p>
 
 <div align="center">
