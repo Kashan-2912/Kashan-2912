@@ -1,6 +1,6 @@
 <p align="center">
-    <img width="98%"
-        src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=itzKashan.dev&section=header&reversal=false&textBg=false&fontSize=50" />
+    <a href="https://itzkashan.dev"><img width="98%"
+        src="https://capsule-render.vercel.app/api?type=blur&height=300&color=gradient&text=itzKashan.dev&section=header&reversal=false&textBg=false&fontSize=50" /></a>a>
 </p>
 
 <!-- <div align="center">
