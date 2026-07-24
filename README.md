@@ -21,7 +21,7 @@
 
 
 <h1 align="center">Hi 👋, Muhammad Kashan Ashraf !</h1>
-<h3 align="center">💫 A Computer Science undergraduate interested in Web and AI/ML.</h3>
+<h3 align="center">💫 A Computer Science graduated interested in Web and AI/ML.</h3>
 
 
 🔭 Exploring Web Development.<br>🌱 I’m currently working on Something Cool 😉<br>💬 Ping me about Programming Fundamentals, OOP and DSA.<br>⚡ Fun Fact: When I'm having fun, I'm the best in the world.
